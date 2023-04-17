@@ -1,0 +1,602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tes",
+				"test_labels"
+			],
+			[
+				"he",
+				"hero_names"
+			],
+			[
+				"pred",
+				"predict_labels"
+			],
+			[
+				"pre",
+				"predict_labels"
+			],
+			[
+				"test",
+				"test_labels"
+			],
+			[
+				"her",
+				"hero_name"
+			],
+			[
+				"hero",
+				"hero_index"
+			],
+			[
+				"img",
+				"imgB"
+			],
+			[
+				"check",
+				"checkline"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"ch",
+				"choice_text"
+			],
+			[
+				"que",
+				"question_text"
+			],
+			[
+				"In",
+				"IntegerField"
+			],
+			[
+				"Ca",
+				"CASCADE"
+			],
+			[
+				"Date",
+				"DateTimeField"
+			],
+			[
+				"pa",
+				"path_cost"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"bon",
+				"bonus_heuristic"
+			],
+			[
+				"tmp",
+				"tmp_bonus_list"
+			],
+			[
+				"heu",
+				"heuristic_func"
+			],
+			[
+				"tmp_",
+				"tmp_bonus_list"
+			],
+			[
+				"bonus",
+				"bonus_list"
+			],
+			[
+				"bonu",
+				"bonus_list"
+			],
+			[
+				"en",
+				"end="
+			],
+			[
+				"sta",
+				"state_pos"
+			],
+			[
+				"ma",
+				"matrix_map"
+			],
+			[
+				"matr",
+				"matrix_map"
+			],
+			[
+				"cur",
+				"cur_state"
+			],
+			[
+				"get",
+				"_get"
+			],
+			[
+				"qu",
+				"queue_obj"
+			],
+			[
+				"put",
+				"_put"
+			],
+			[
+				"in",
+				"inp_data"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"an",
+				"AnnotationSet"
+			],
+			[
+				"end",
+				"endNp"
+			],
+			[
+				"start",
+				"startNp"
+			],
+			[
+				"NP",
+				"NpTagStr"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"inp",
+				"inp_data"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"ann",
+				"annotId"
+			],
+			[
+				"Wo",
+				"word"
+			],
+			[
+				"tmpS",
+				"tmpStart"
+			],
+			[
+				"st",
+				"startPos"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"s",
+				"startPos"
+			],
+			[
+				"wr",
+				"write"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"sen",
+				"sentimentList"
+			],
+			[
+				"senti",
+				"sentiments"
+			],
+			[
+				"dic",
+				"dictionary_data"
+			],
+			[
+				"pNe",
+				"pNeg"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"nega",
+				"negative_adverb"
+			],
+			[
+				"sum",
+				"sumOccurPos"
+			],
+			[
+				"word",
+				"wordOccurInLabel"
+			],
+			[
+				"lis",
+				"listOfWord"
+			],
+			[
+				"ist",
+				"listOfWord"
+			],
+			[
+				"la",
+				"label_data"
+			],
+			[
+				"set",
+				"setOfWord"
+			],
+			[
+				"neu",
+				"neutralCount"
+			],
+			[
+				"senten",
+				"sentence"
+			],
+			[
+				"li",
+				"linalg"
+			],
+			[
+				"do",
+				"dot"
+			],
+			[
+				"tr",
+				"transpose"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"cmd",
+				"Package Control: Enable Debug Mode"
+			],
+			[
+				"LatexTools:setti",
+				"LaTeXTools: Reset user settings to default"
+			],
+			[
+				"build",
+				"Build With: LaTeX - Traditional"
+			],
+			[
+				"Build",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageResourceViewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ASUS/Documents/GitHub/character-recognition/metric_approach/similarity_metric.py",
+		"/C/Users/ASUS/Documents/GitHub/character-recognition/test_opencv.py",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/ASUS/Documents/GitHub/character-recognition/similarity_metric.py",
+		"/D/Project/CV/nan_junior/AI-Engineer-Test/test_opencv.py",
+		"/D/Project/CV/nan_junior/AI-Engineer-Test/Ho_Anh_Binh_main_ex1.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo2.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo1.py",
+		"/D/Project/CV/nan_junior/AI-Engineer-Test/Ho_Anh_Binh_main_1.py",
+		"/D/Project/CV/nan_junior/AI-Engineer-Test/Ho_Anh_Binh_main.py",
+		"/D/Project/CV/vndirect_intern/Ho_Anh_Binh_main.py",
+		"/D/Project/CV/Ho_Anh_Binh_main.py",
+		"/D/Project/CV/pv.py",
+		"/D/Download/R/20280013 - NgoTruongMinhDat - Tuan 2 (1).R",
+		"/D/Download/R/20280013 - NgoTruongMinhDat - Tuan3.R",
+		"/D/Project/Nam3_Ki1/Data Mining/19120459-19120472/func7_normalization.py",
+		"/D/Project/Nam3_Ki1/Nhập môn xử lý ngôn ngữ tự nhiên/Sentiment Analysis/Source/NaiveBayes_Train.py",
+		"/D/test.py",
+		"/D/Project/Review/Deep Learning/Architecture/GGNs/1-Introduction/Introduction.tex",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text/Packages/User/LaTeXTools.sublime-settings",
+		"/D/Project/Review/Deep Learning/Architecture/GGN/Introduction.tex",
+		"/D/Project/Review/Luận Văn Đại Học/Preprocessing.py",
+		"/D/Project/Nam_3 Ki_1/Nhập môn xử lý ngôn ngữ tự nhiên/Keyword_Extraction/test_LDA.py",
+		"/D/Project/Nam_3 Ki_1/Nhập môn xử lý ngôn ngữ tự nhiên/Keyword_Extraction.py",
+		"/C/Users/ASUS/Documents/GitHub/django_yolo_api/apps/image/views.py",
+		"/D/Download/19120459_19120472/source/Câu 2/apps/image/views.py",
+		"/D/Python/Python Project/Test.py",
+		"/D/Project/Nam_3 Ki_1/find_pattren.py",
+		"/D/Project/Nam_3 Ki_1/UN.py",
+		"/D/Python Project/câu 2/apps/image/views.py",
+		"/C/Users/ASUS/Documents/GitHub/django_yolo_api/apps/image/urls.py",
+		"/C/Users/ASUS/Documents/GitHub/django_yolo_api/apps/image/forms.py",
+		"/C/Users/ASUS/Documents/GitHub/django_yolo_api/config/urls.py",
+		"/C/Users/ASUS/Documents/GitHub/django_yolo_api/apps/image/models.py",
+		"/C/Users/ASUS/Documents/GitHub/django_yolo_api/config/models.py",
+		"/C/Users/ASUS/Documents/GitHub/django_yolo_api/apps/image/tests.py",
+		"/D/Python Project/format_txt.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/detection/sampleapp/forms.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/detection/sampleapp/apps.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/detection/sampleapp/views.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/detection/sampleapp/urls.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/detection/detection/settings.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/detection/sampleapp/models.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/detection/detection/urls.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/detection/sampleapp/template/image_form.html",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/mysite/settings.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/sampleapp/views.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/sampleapp/forms.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/sampleapp/models.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/sampleapp/urls.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/sampleapp/image_form.html",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/mysite/urls.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/yolo_app/views.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/yolo_app/urls.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/yolo_app/forms.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/yolo_app/models.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/mysite/models.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/mysite/yolo_app/templates/base.html",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo_web/yolo_web/settings.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo_web/yolo_web/models.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo_web/yolo_web/urls.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo_web/yolo/urls.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo_web/yolo/models.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo_web/yolo/views.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo_web/imagemodel_form.html",
+		"/D/Download/yolo1.py",
+		"/D/Project/Nam3_Ki2/Học Thống Kê/yolo",
+		"/C/Users/ASUS/lab_assignment_2/map_feature.py",
+		"/D/Python Project/Test.py",
+		"/D/Download/lab_assignment_2/map_feature.py",
+		"/D/Download/NMCNPM-master/SE_env/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/mobile_application.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/views.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/forms.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/models.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/queryDemos.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/tests.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/urls.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/filters.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/apps.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/migrations/0006_auto_20222404_1327.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/migrations/0005_auto_20222404_1515.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/migrations/0004_auto_20222404_1502.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/migrations/0003_auto_20222404_1454.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/admin.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/accounts/migrations/0006_auto_20191213_1327.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/manage.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/db.sqlite3",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/static/css/main.css",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/crm1/settings.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/crm1/urls.py",
+		"/D/Download/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crash-course-CRM-Part-14-User-Registration-Login-Authentication/crm1_v14_registration_login/crm1/wsgi.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/migrations/0005_auto_20222404_1515.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/migrations/0004_auto_20222404_1502.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/tests.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/urls.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/views.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/manage.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/db.sqlite3",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/static/css/main.css",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/crm1/settings.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/crm1/urls.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/crm1/wsgi.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/admin.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/apps.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/forms.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/models.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/queryDemos.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/migrations/0001_initial.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/migrations/0003_auto_20222404_1454.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/migrations/0004_auto_20222404_1502.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/migrations/0005_auto_20222404_1515.py",
+		"/D/Project/Nam3_Ki2/NMCNPM/GK/crashCourse/account/migrations/__init__.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/migrations/__init__.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/migrations/0002_order_product.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/migrations/0001_initial.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/migrations/0004_auto_20191203_1502.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/migrations/0003_auto_20191203_1454.py",
+		"/D/Download/crash-course-CRM-Part-11-Inline-Formsets/crm1_v11_formsets/accounts/migrations/0005_auto_20191203_1515.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/views.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/tests.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/models.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/apps.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/accounts/admin.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/crm1/settings.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/crm1/__init__.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/crm1/asgi.py",
+		"/C/Users/ASUS/Documents/GitHub/Midterm_SE/crm1/crm1/wsgi.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.9.sublime-build",
+	"project": "test_opencv.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
